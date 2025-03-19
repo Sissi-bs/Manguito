@@ -8,4 +8,5 @@ body { background: rgb(251, 193, 0);
      }
 
 img {text-align: center;
+     float: center;
     }
